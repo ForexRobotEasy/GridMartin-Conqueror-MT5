@@ -1,0 +1,107 @@
+
+
+//+------------------------------------------------------------------+
+//|                                                GridMartin Conqueror MT5 |
+//|                                     https://www.forexroboteasy.com |
+//|                                    Developed by Forex Robot Easy Team |
+//|                                                                    |
+//|                                      Terms of Reference:            |
+//| 1. Develop code for the GridMartin Conqueror MT5, a smart Forex trading software. |
+//| 2. The code should include smart entry/exit algorithms to identify the best times to enter and exit trades. |
+//| 3. Implement grid and martingale techniques to enhance the trading strategy. |
+//| 4. The software should be designed to maximize profits by taking advantage of price fluctuations in the Forex market. |
+//| 5. Focus on long-term growth by incorporating features that prioritize sustainable profitability. |
+//| 6. The code should be efficient and optimized for speed and performance. |
+//| 7. Ensure compatibility with the MT5 trading platform. |
+//| 8. Implement necessary trading functions to execute the algorithm effectively. |
+//| 9. The code should be well-documented and easy to understand for future maintenance and updates. |
+//| 10. Adhere to industry best practices and coding standards. |
+//| 11. Test the code thoroughly to identify and fix any bugs or issues. |
+//| 12. Deliver the final code within the specified timeframe. |
+//| 13. Provide necessary documentation and instructions for installing and using the software. |
+//| 14. Collaborate with the project team to ensure smooth integration and functionality of the software. |
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//| Expert initialization function                                   |
+//+------------------------------------------------------------------+
+int OnInit()
+{
+    // Add initialization code here
+    
+    return(INIT_SUCCEEDED);
+}
+
+//+------------------------------------------------------------------+
+//| Expert deinitialization function                                 |
+//+------------------------------------------------------------------+
+void OnDeinit(const int reason)
+{
+    // Add deinitialization code here
+}
+
+//+------------------------------------------------------------------+
+//| Expert tick function                                             |
+//+------------------------------------------------------------------+
+void OnTick()
+{
+    // Add tick code here
+    
+    // Check for entry/exit conditions
+    
+    // Execute trades
+}
+
+//+------------------------------------------------------------------+
+//| Expert start function                                            |
+//+------------------------------------------------------------------+
+void OnStart()
+{
+    // Add start code here
+    
+    // Run the trading algorithm
+    
+    // Monitor trades and adjust positions accordingly
+    
+    // Close all positions at the end
+}
+
+//+------------------------------------------------------------------+
+//| Custom functions                                                 |
+//+------------------------------------------------------------------+
+void CustomFunction1()
+{
+    // Add custom function code here
+}
+
+void CustomFunction2()
+{
+    // Add custom function code here
+}
+
+//+------------------------------------------------------------------+
+//| Custom indicators                                                |
+//+------------------------------------------------------------------+
+void CustomIndicator1()
+{
+    // Add custom indicator code here
+}
+
+void CustomIndicator2()
+{
+    // Add custom indicator code here
+}
+
+//+------------------------------------------------------------------+
+//| Custom classes                                                   |
+//+------------------------------------------------------------------+
+class CustomClass1
+{
+    // Add custom class code here
+}
+
+class CustomClass2
+{
+    // Add custom class code here
+}
+
